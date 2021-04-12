@@ -1,0 +1,28 @@
+*{
+    font-family: monospace;
+}
+body{
+    background-color: gray;
+    color: white;
+}
+#screen1{
+    position: fixed;
+    left: 0;
+    top: 30px;
+    width: 50%;
+    height: 94%;
+    border: 1px solid red;
+}
+#row1{
+    position: fixed;
+    bottom: 0 !important;
+    left: 0;
+    width: 50%;
+    border: 1px solid red;
+}
+#anchor{
+    position: fixed;
+    border: 1px solid black;
+    height: 20px;
+    width: 0px;
+}
